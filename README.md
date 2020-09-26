@@ -1,3 +1,5 @@
-# LaneLines_CV
+# Identify the lane lines using OpenCV  
 
-### Identify the lane lines using opencv
+In this project, the lane lines from an image are detetcted using canny edge detector techninique
+
+
