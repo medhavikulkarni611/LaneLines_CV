@@ -1,5 +1,8 @@
 # Identify the lane lines using OpenCV  
+In this project, Using Canny Edge Detector and OpenCV library the lane lines are identified from a camera image.
 
-In this project, the lane lines from an image are detetcted using canny edge detector techninique
-
+## Installation
+```bash
+pip install opencv-python
+```
 
