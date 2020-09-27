@@ -4,5 +4,8 @@ In this project, Using Canny Edge Detector and OpenCV library the lane lines are
 ## Installation
 ```bash
 pip install opencv-python
+pip install numpy
+pip install matplotlib
+
 ```
 
