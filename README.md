@@ -22,5 +22,7 @@ The following steps are followed while applying this technique.
 
 The second step can be skipped as the canny method provided by OpenCV applies Gaussian blur with 5 X 5 kernal before performing edge detection.
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
 
-
+<img src="https://github.com/medhavikulkarni611/LaneLines_CV/blob/master/test_image.jpg" width="500"> |  ![](https://...Ocean.png)
