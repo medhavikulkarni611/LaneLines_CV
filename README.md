@@ -23,3 +23,7 @@ The following steps are followed while applying this technique.
 The second step can be skipped as the canny method provided by OpenCV applies Gaussian blur with 5 X 5 kernal before performing edge detection.
 
 <img src="https://github.com/medhavikulkarni611/LaneLines_CV/blob/master/test_image.jpg" width="450">   <img src="https://github.com/medhavikulkarni611/LaneLines_CV/blob/master/Canny_Edges.png" width="450">
+
+Now the next step is to consider only region of interest and get only the lane edges and ignore the remaining part of image.
+
+## Results
