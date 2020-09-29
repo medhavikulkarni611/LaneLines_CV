@@ -41,3 +41,11 @@ From above cropped image we will draw Hough Lines using OpenCV function HoughLin
 
 <img src="https://github.com/medhavikulkarni611/LaneLines_CV/blob/master/Lane_Lines.png" width="400">   <img src="https://github.com/medhavikulkarni611/LaneLines_CV/blob/master/OptimizedLaneLines.png" width="400">
 
+This algorithm can further be applied to video as well, which will detect lane lines as we proceed.
+
+<p align="center">
+  <img width="450" height="250" src="https://github.com/medhavikulkarni611/LaneLines_CV/blob/master/LaneDetection.gif">
+</p>
+
+
+
